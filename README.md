@@ -1,4 +1,4 @@
-# Smart Maze Solver
+# Intelligent Maze Solver
 
 [![Join the chat at https://gitter.im/Intelligent-Maze-Solver/community](https://badges.gitter.im/Intelligent-Maze-Solver/community.svg)](https://gitter.im/Intelligent-Maze-Solver/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
